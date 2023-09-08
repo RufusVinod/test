@@ -17,7 +17,7 @@ const User = () => {
 
   return (
     <div>
-      <h1>USER </h1>
+      <h1>Test User </h1>
       <button
         onClick={() => {
           setCount(Count + 1);
